@@ -8,6 +8,7 @@ We are still looking for tricks to improve our implementation.
 Feel free to clone this repo and train the model with several configs and parrameters
 If you want to be contibutor and help us scaling up this model or just can help with ideas,
 techniques, algorithms....
-Whatever that may help, please don't hesitate to reach us out and contact this email:
+Whatever that may help, please don't hesitate to reach us out and contact these emails:
 
 ## yacoudiarra.wl@gmail.com
+## mohamedyattassaye63@gmail.com
